@@ -20,6 +20,8 @@
 |-b|출력결과를 파일이나 다른프로그램으로 전달|
 |-d|화면 갱신주기를 초단위로 설정|
 |-p|지정한 PID 프로세스를 모니터링|
+<img width="697" alt="image" src="https://github.com/Gksrufdk09/2024_OpenSource/assets/91881749/cd84d22a-177b-458a-b0b0-f7e5506cede4">
+
 <br>
 
 
@@ -34,6 +36,8 @@
 |-A|모든 프로세스 출력(-e 와 동일)|
 |-e|모든 프로세스 출력|
 |-a|세선 리더와 커미널과 연관되지 않은 프로세스를 제외하고 모든 프로세스를 출력|
+
+<img width="697" alt="image" src="https://github.com/Gksrufdk09/2024_OpenSource/assets/91881749/3d1f4b94-045e-48c8-862b-5bd71018b276">
 
 **ps와 top 의 차이점**
 + ps 는 ps한 시점에 proc에 검색한 cpu 사용량
