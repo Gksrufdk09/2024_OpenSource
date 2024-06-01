@@ -40,12 +40,12 @@
 + top 은 proc에서 일정주기로 합산해 cpu 사용율 출력
 
 **자주쓰는 명령어 모음**
-  $ ps -p 1(프로세스 번호가 1인 프로세스 출력)
-  $ ps -u apache(계정이 apache인 프로세스들을 )
-  $ ps -fp [PID] # PID를 키워드로 프로세스 정보를 확인
-  $ ps -u root # 특정 사용자가 돌리는 프로세스의 정보를 알고 싶을 때
-  $ ps -p 1222 -o comm= # PID가 1222인 프로세스의 이름을 출력
-  $ ps -C httpd -o pid= # 이름이 httpd인 프로세스들의 pid를 출력
+  + $ ps -p 1(프로세스 번호가 1인 프로세스 출력)
+  + $ ps -u apache(계정이 apache인 프로세스들을 )
+  + $ ps -fp [PID] # PID를 키워드로 프로세스 정보를 확인
+  + $ ps -u root # 특정 사용자가 돌리는 프로세스의 정보를 알고 싶을 때
+  + $ ps -p 1222 -o comm= # PID가 1222인 프로세스의 이름을 출력
+  + $ ps -C httpd -o pid= # 이름이 httpd인 프로세스들의 pid를 출력
 <br>
 
 ## 📍 jobs
